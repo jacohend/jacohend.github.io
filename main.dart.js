@@ -24112,7 +24112,7 @@ P.CL.prototype={}
 F.nh.prototype={
 aS:function(){return new F.uk(C.n)}}
 F.uk.prototype={
-K:function(a){var t=null,s=E.T8(C.lc,L.hN("Chainpoint",t)),r=H.b([new F.kR(new S.nq(t),"Core Status",C.h_,C.ag,t),new F.kR(new O.ku(t),"Gateway Status",C.h_,C.vT,t),new F.kR(new O.ku(t),"Network Statistics",C.uE,C.vU,t)],u.E),q=P.aS([null,0],u.qI,u.S),p=r.length
+K:function(a){var t=null,s=E.T8(C.lc,L.hN("Chainpoint",t)),r=H.b([new F.kR(new S.nq(t),"Cores",C.h_,C.ag,t),new F.kR(new O.ku(t),"Gateways",C.h_,C.vT,t),new F.kR(new O.ku(t),"Net Stats",C.uE,C.vU,t)],u.E),q=P.aS([null,0],u.qI,u.S),p=r.length
 return M.U9(s,M.no(C.aj,new B.vB(new B.MB(3,0,0,1),new G.Mz(!0,!0,!0,r,q),t,C.p,!1,t,!0,C.mJ,!1,t,p,C.al,C.q4,t),t,t,t,t,t,t))}}
 F.kR.prototype={
 K:function(a){var t=this,s=null
