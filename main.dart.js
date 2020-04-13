@@ -24228,7 +24228,7 @@ O.Ew.prototype={
 $0:function(){},
 $S:0}
 O.Et.prototype={
-$2:function(a,b){var t=null,s=L.Ir(C.h_,t,t),r=this.a,q=L.hN("Core "+r.e[b],t),p=u.E
+$2:function(a,b){var t=null,s=L.Ir(C.h_,t,t),r=this.a,q=L.hN(r.e[b],t),p=u.E
 return V.Tf(T.Ti(H.b([Q.WL(s,L.hN(J.DW(r.d[b]," satoshis"),t),q),K.VW(H.b([N.Tu(C.qt,new O.Eq(r,b))],p))],p),C.ig,C.lb),t)},
 $C:"$2",
 $R:2}
